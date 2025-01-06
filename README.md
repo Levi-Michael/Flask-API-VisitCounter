@@ -125,5 +125,5 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-Feel free to reach out for questions or collaboration opportunities! or suggestions, open an issue or contact me directly through my [GitHub profile](https://github.com/Levi-Michael).
+Feel free to reach out for questions or collaboration opportunities or suggestions, open an issue or contact me directly through my [GitHub profile](https://github.com/Levi-Michael).
 
