@@ -125,9 +125,5 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-Created by Michael Levi.
-
-- GitHub: [Levi-Michael](https://github.com/Levi-Michael)
-
-Feel free to reach out for questions or collaboration opportunities!
+Feel free to reach out for questions or collaboration opportunities! or suggestions, open an issue or contact me directly through my [GitHub profile](https://github.com/Levi-Michael).
 
